@@ -1,5 +1,7 @@
 FROM jenkins
 
+MAINTAINER Nabheet Sandhu <nabheet@gmail.com>
+
 COPY plugins.txt /usr/share/jenkins/plugins.txt
 RUN /usr/local/bin/plugins.sh /usr/share/jenkins/plugins.txt
 
