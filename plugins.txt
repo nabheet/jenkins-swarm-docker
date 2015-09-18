@@ -1,1 +1,11 @@
+credentials:latest
+git:latest
+git-client:latest
+github:latest
+github-api:latest
+github-oauth:latest
+plain-credentials:latest
+promoted-builds:latest
+scm-api:latest
 swarm:latest
+versionnumber:latest
